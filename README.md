@@ -13,22 +13,22 @@ NodeJs系列文章规划目录（可能会有变动）
 - 模块
   - [x] [模块机制](https://github.com/F2E-SHIELD/NodeJs-Series/issues/6)
   - [x] 在NodeJs中使用ES6模块
-  - [ ] 热更新
 
 - 事件/异步 
   - [x] [[译]理解NodeJs中的Event Loop、Timers以及process.nextTick()](https://github.com/F2E-SHIELD/NodeJs-Series/issues/4)
   - [x] [Q&A之理解NodeJs中的Event Loop、Timers以及process.nextTick()](https://github.com/F2E-SHIELD/NodeJs-Series/issues/5)
-  - [ ] NodeJs真的是单线程的吗？
   - [ ] 为什么process.nextTick可以循环递归而不出错？
 
-- 进程
-  - [ ] 聊一聊进程
-  - [ ] NodeJs中的集群
+- 流(Stream)
+  - [ ] NodeJs中的流
+ 
+- 缓冲(Buffer)
+  - [ ] 详解Buffer
 
-- I/O
-  - [ ] 什么是Buffer
-  - [ ] 聊一聊流
-  - [ ] 什么是负载？
+- 进程/线程
+  - [ ] child_process 二三事
+  - [ ] NodeJs中的集群
+  - [ ] NodeJs真的是单线程的吗？
 
 - 网络
   - [ ] 详解http
@@ -37,14 +37,14 @@ NodeJs系列文章规划目录（可能会有变动）
   - [ ] 什么是跨域请求? 如何允许跨域?
   - [ ] socket hang up 是什么意思? 可能在什么情况下出现?
 
+- 安全
+  - [ ] 聊一聊加密
+  - [ ] 攻击
+
 - 错误处理/调试
   - [ ] NodeJs中如何处理异常
   - [ ] NodeJs调试手册
   - [ ] 聊一聊NodeJs监控
-
-- 安全
-  - [ ] 聊一聊加密
-  - [ ] 攻击
 
 - 其他
   - [x] [聊一聊BOM](https://github.com/F2E-SHIELD/NodeJs-Series/issues/2) 
@@ -53,4 +53,3 @@ NodeJs系列文章规划目录（可能会有变动）
   - [x] [聊一聊 package.json 中的各种 dependency](https://github.com/F2E-SHIELD/NodeJs-Series/issues/3)
   - [ ] 在Node中使用RabitMQ 
   - [ ] 使用docker部署Node
-系列文章不断更新中，已完成：
