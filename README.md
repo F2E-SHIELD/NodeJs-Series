@@ -6,8 +6,6 @@
 
 如果你也在学习Nodejs，欢迎关注微信公众号［前端神盾局］，一起交流成长
 
-![image](https://github.com/F2E-SHIELD/Article-Assets/blob/master/wechat-qrcode.jpg?raw=true)
-
 NodeJs系列文章规划目录（可能会有变动）
 
 - 模块
@@ -20,7 +18,7 @@ NodeJs系列文章规划目录（可能会有变动）
   - [ ] 为什么process.nextTick可以循环递归而不出错？
 
 - 流(Stream)
-  - [ ] NodeJs中的流
+  - [x] [详解NodeJs流之一](https://github.com/F2E-SHIELD/NodeJs-Series/issues/8)
  
 - 缓冲(Buffer)
   - [ ] 详解Buffer
@@ -53,3 +51,6 @@ NodeJs系列文章规划目录（可能会有变动）
   - [x] [聊一聊 package.json 中的各种 dependency](https://github.com/F2E-SHIELD/NodeJs-Series/issues/3)
   - [ ] 在Node中使用RabitMQ 
   - [ ] 使用docker部署Node
+
+
+![image](https://github.com/F2E-SHIELD/Article-Assets/blob/master/wechat-qrcode.jpg?raw=true)
