@@ -36,7 +36,7 @@ NodeJs系列文章规划目录（可能会有变动）
   - [ ] socket hang up 是什么意思? 可能在什么情况下出现?
  
 - 数据库
-  - [ ] Mysql中的常用sql语句汇总
+  - [ ] [Mysql中的常用sql语句汇总](https://github.com/F2E-SHIELD/NodeJs-Series/issues/9)
 
 - 安全
   - [ ] 聊一聊加密
